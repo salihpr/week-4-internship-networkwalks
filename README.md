@@ -157,7 +157,7 @@ The exposed file, `mediroza_db_backup_2019.sql`, was publicly downloadable with 
 
 **Recommended fixes:** disable directory indexing, remove the exposed `/old/` directory and backup file from the public web server, rewrite the login query using parameterised statements, enforce strong per-report passwords, and add 2FA to the Patient Portal.
 
-> 📄 A full formal VAPT report with CVSS scoring, detailed remediation steps, and a risk-based roadmap is included separately as part of this internship deliverable.
+> 📄 A full formal VAPT report with CVSS scoring, detailed remediation steps, and a risk-based roadmap is available here: **[Mediroza_VAPT_Report_MuhammedSalih.docx](https://github.com/salihpr/week-4-internship-networkwalks/blob/main/reports/Mediroza_VAPT_Report_MuhammedSalih.docx)**
 
 > 🔄 **More screenshots and findings will be added to this repository as testing continues.**
 
